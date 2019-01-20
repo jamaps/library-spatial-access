@@ -16,4 +16,4 @@ The code in `Ai.R` computes the average minimum travel time from the data genera
 
 Here's an example of the output comparing access to public libraries for different days of the week in Regina, Canada.
 
-!(imgs/day.png)
+![img](imgs/day.png)
